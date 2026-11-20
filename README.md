@@ -8,6 +8,3 @@ I'm a Civil Engineering student. I work on construction technology, open source,
 
 ## Interests
 Construction Tech · BIM · Python · Open Source
-
-## Contact
-- LinkedIn:(https://www.linkedin.com/in/ayhaneh/)
